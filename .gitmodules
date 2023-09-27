@@ -1,0 +1,6 @@
+[submodule "tech-chalenge/I-II"]
+	path = tech-chalenge/I-II
+	url = https://github.com/fsales/fiap-tech-chalenge.git
+[submodule "aula/mongodb"]
+	path = aula/mongodb
+	url = https://github.com/fsales/fiap-mongodb.git
