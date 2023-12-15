@@ -6,11 +6,16 @@
 
 ## adicionar módulo
 
+* Tech-chalenge
+
 1. git submodule add <https://github.com/fsales/fiap-tech-chalenge.git> tech-chalenge/I-II
+2. git submodule add <https://github.com/fsales/fiap-tech-chalenge-fase3.git> tech-chalenge/III
 
-2. git submodule add <https://github.com/fsales/fiap-mongodb.git> aula/mongodb
+* Aulas
+ 
+1. git submodule add <https://github.com/fsales/fiap-mongodb.git> aula/mongodb
 
-3. git submodule add <https://github.com/fsales/fiap-qa.git> aula/qa
+2. git submodule add <https://github.com/fsales/fiap-qa.git> aula/qa
 
 ## remover módulo
 

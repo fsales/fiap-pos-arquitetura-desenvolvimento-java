@@ -7,3 +7,6 @@
 [submodule "aula/qa"]
 	path = aula/qa
 	url = https://github.com/fsales/fiap-qa.git
+[submodule "tech-chalenge/III"]
+	path = tech-chalenge/III
+	url = https://github.com/fsales/fiap-tech-chalenge-fase3.git
