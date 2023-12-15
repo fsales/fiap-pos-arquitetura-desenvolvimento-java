@@ -10,6 +10,8 @@
 
 2. git submodule add <https://github.com/fsales/fiap-mongodb.git> aula/mongodb
 
+3. git submodule add <https://github.com/fsales/fiap-qa.git> aula/qa
+
 ## remover módulo
 
 git rm -r submodule/fiap-tech-chalenge
