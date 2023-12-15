@@ -13,3 +13,8 @@
 ## remover módulo
 
 git rm -r submodule/fiap-tech-chalenge
+
+
+## update módulo
+
+git submodule update --remote
