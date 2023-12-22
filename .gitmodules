@@ -19,3 +19,6 @@
 [submodule "aula/webflux/CURSO_JAVA_SPRING_WEBFLUX"]
 	path = aula/webflux/CURSO_JAVA_SPRING_WEBFLUX
 	url = https://github.com/fsales/CURSO_JAVA_SPRING_WEBFLUX.git
+[submodule "tech-chalenge/IV"]
+	path = tech-chalenge/IV
+	url = https://github.com/fsales/fiap-tech-chalenge-fase4.git
