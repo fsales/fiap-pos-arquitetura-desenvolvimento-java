@@ -10,3 +10,12 @@
 [submodule "tech-chalenge/III"]
 	path = tech-chalenge/III
 	url = https://github.com/fsales/fiap-tech-chalenge-fase3.git
+[submodule "aula/webflux/POSTECH_JAVA_PROGRAMACAO_REATIVA"]
+	path = aula/webflux/POSTECH_JAVA_PROGRAMACAO_REATIVA
+	url = https://github.com/fsales/POSTECH_JAVA_PROGRAMACAO_REATIVA.git
+[submodule "aula/webflux/CURSO_JAVA_SPRING_WEBFLUX_JUNIT5"]
+	path = aula/webflux/CURSO_JAVA_SPRING_WEBFLUX_JUNIT5
+	url = https://github.com/fsales/CURSO_JAVA_SPRING_WEBFLUX_JUNIT5.git
+[submodule "aula/webflux/CURSO_JAVA_SPRING_WEBFLUX"]
+	path = aula/webflux/CURSO_JAVA_SPRING_WEBFLUX
+	url = https://github.com/fsales/CURSO_JAVA_SPRING_WEBFLUX.git
