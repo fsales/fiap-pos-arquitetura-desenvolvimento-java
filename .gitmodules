@@ -22,3 +22,6 @@
 [submodule "tech-chalenge/IV"]
 	path = tech-chalenge/IV
 	url = https://github.com/fsales/fiap-tech-chalenge-fase4.git
+[submodule "tech-chalenge/V"]
+	path = tech-chalenge/V
+	url = https://github.com/fsales/fiap-tech-chalenge-fase5.git
